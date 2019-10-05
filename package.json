@@ -1,0 +1,19 @@
+{
+  "name": "little-excersises",
+  "version": "1.0.0",
+  "description": "my mono repo",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricevind/little-excersises.git"
+  },
+  "author": "ricevind",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ricevind/little-excersises/issues"
+  },
+  "homepage": "https://github.com/ricevind/little-excersises#readme"
+}
